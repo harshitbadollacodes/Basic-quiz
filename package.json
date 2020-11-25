@@ -1,0 +1,22 @@
+{
+  "name": "basic-quiz",
+  "version": "1.0.0",
+  "description": "Basic quiz about myself",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/harshitbadollacodes/Basic-quiz.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/harshitbadollacodes/Basic-quiz/issues"
+  },
+  "homepage": "https://github.com/harshitbadollacodes/Basic-quiz#readme",
+  "dependencies": {
+    "readline-sync": "^1.4.10"
+  }
+}
