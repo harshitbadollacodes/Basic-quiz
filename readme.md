@@ -5,7 +5,7 @@ Thanks for taking out time and reading this doc.
 This is a CLI (command line interface) quiz app. CLI apps are totally obsolete from the end user scene, but programmers use them all the time. 
 
 <h1> What is CLI ?</h1>
-When you interact with a program via command, then it is a CLI app.
+When you interact with a program via command line, then it is a CLI app.
 
 <h1> How to run a CLI App ? </h1>
 Since this is a CLI app and uses node js, it cannot be run on browser. I have used Repl.it (online IDE) which allows to write code and build apps and websites using a browser. It allows to share the code easily.
